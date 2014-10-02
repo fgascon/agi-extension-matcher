@@ -1,0 +1,29 @@
+{
+  "name": "agi-extension-matcher",
+  "version": "0.0.0",
+  "description": "middleware for agi-middleware to match against an extension or an extension pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fgascon/agi-extension-matcher.git"
+  },
+  "keywords": [
+    "agi-middleware",
+    "extension",
+    "match",
+    "fastagi",
+    "agi"
+  ],
+  "author": "fgascon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fgascon/agi-extension-matcher/issues"
+  },
+  "homepage": "https://github.com/fgascon/agi-extension-matcher",
+  "dependencies": {
+    "utils-merge": "^1.0.0"
+  }
+}
