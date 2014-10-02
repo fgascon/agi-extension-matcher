@@ -1,6 +1,6 @@
 {
   "name": "agi-extension-matcher",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "middleware for agi-middleware to match against an extension or an extension pattern",
   "main": "index.js",
   "scripts": {
